@@ -1,4 +1,16 @@
-html {
-  height: 100%;
-  width: 100%;
+#banner{
+    width: 100%;
+}
+
+.principal{
+  background-color: #CCCCCC;
+  padding: 30px;
+}
+
+.titulo-principal{
+    padding-left: 20px;
+}
+
+.texto-centralizado{
+  
 }
